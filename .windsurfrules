@@ -1,0 +1,109 @@
+speak to me in french
+
+New Year Showcase Website
+1. Project Goals
+Create an attractive and immersive landing page to celebrate the New Year.
+
+Use modern and fluid animations to captivate the user.
+
+Offer an intuitive and enjoyable user experience (UX).
+
+Use React with TypeScript for a robust and maintainable code base.
+
+2. Target Audience
+People celebrating the New Year.
+
+Users of all ages, with a special focus on young adults.
+
+International audience (multilingual if necessary).
+
+3. Main Features
+Header
+
+Logo or site title.
+
+Simple navigation menu (home, about, contact, etc.).
+
+Background animation (particle effects, snow, fireworks).
+
+Hero Section
+
+Big eye-catching headline ("Happy New Year 2025!").
+
+Subtitle or welcome message.
+
+Main call-to-action (CTA) button (e.g. "Discover the festivities").
+
+Background animation (fireworks, countdown, etc.).
+
+Countdown
+
+Dynamic display of the time remaining until New Year (days, hours, minutes, seconds).
+
+Animation when the numbers change.
+
+"About" section
+
+Description of the festivities or event.
+
+Animated images or illustrations.
+
+"Events" section
+
+List of events or activities planned for New Year's Eve.
+
+Interactive maps with hover animations.
+
+"Gallery" section
+
+Image or video gallery with smooth transition effects.
+
+Ability to zoom or scroll through images.
+
+"Contact" section
+
+Animated contact form.
+
+Interactive map (Google Maps) with animation.
+
+Footer
+
+Useful links (legal notices, privacy policy).
+
+Social media icons with hover animations.
+
+Copyright message.
+
+4. Design and Animations
+Visual Style:
+
+Colors: Gold, silver, white, black, red (festive theme).
+
+Typography: Elegant and modern (e.g. "Playfair Display", "Montserrat").
+
+Icons: Minimalist or festive style.
+
+Animations:
+
+Particle effects (snow, confetti).
+
+Fireworks in the background.
+
+Smooth transitions between sections.
+
+Scroll animations (parallax, progressive appearances).
+
+Hover effects (buttons, cards, icons).
+
+5. Technologies
+Frontend:
+
+React (with hooks and functional components).
+
+TypeScript for static typing.
+
+Animation Libraries: Framer Motion
+
+use tailwind css and shadcn ui for the ui
+use lucid react for the icons
+use framer motion for the animations
